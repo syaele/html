@@ -1,0 +1,33 @@
+h1 {
+    color: aquamarine;
+    text-transform: uppercase;
+}
+
+.paragraf-1 {
+    color: cadetblue;
+    font-size: 18px;
+    font-family: Arial;
+}
+
+#header-1 {
+    background-color: steelblue;
+    text-align: center;
+}
+
+input [type="text"] {
+    padding: 10px;
+    border: 1px solid rgb(234, 218, 197);
+}
+h1 {
+
+}
+    
+.roboto-<uniquifier> {
+   font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+ 
+}

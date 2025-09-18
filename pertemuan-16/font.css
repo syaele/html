@@ -1,0 +1,43 @@
+h1 {
+    font-size: 24px;
+    color: rgb(185, 157, 47);
+}
+.normal {
+    font-style: normal;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+    font-size:  20px;
+    font-weight: bolder;
+}
+
+.oblique {
+    font-style: oblique;
+    font-size: 20px;
+    font-weight: 500;
+}
+h1 {
+    font-size: 24px;
+    color: rgb(185, 157, 47);
+}
+.normal {
+    font-style: normal;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+    font-size:  20px;
+    font-weight: bolder;
+}
+
+.oblique {
+    font-style: oblique;
+    font-size: 20px;
+    font-weight: 500;
+}
+.normal {
+    font-family: "Bitcount Grid Double", system-ui;
+}
