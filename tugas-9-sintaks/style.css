@@ -1,0 +1,11 @@
+.judul-besar {
+   text-align: center;
+   color: red;
+}
+.judul-kecil {
+    color: #234348;
+    margin-top: 20px;
+}
+footer {
+     margin-top: 40px;
+}
